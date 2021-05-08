@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1618857376 source:c:\users\matth\desktop\coen 244\termproject\project\main.cpp
+	<iostream>
+	"Person.h"
+	"Friendship.h"
+	"Graph.h"
+	"UGraph.h"
+	"DGraph.h"
+	<limits>
+
+1618678095 source:c:\users\matth\desktop\coen 244\termproject\project\person.cpp
+	"Person.h"
+	<string>
+
+1618677661 c:\users\matth\desktop\coen 244\termproject\project\person.h
+	<iostream>
+
+1618776427 source:c:\users\matth\desktop\coen 244\termproject\project\friendship.cpp
+	"Friendship.h"
+
+1618776412 c:\users\matth\desktop\coen 244\termproject\project\friendship.h
+	"Person.h"
+
+1618791401 source:c:\users\matth\desktop\coen 244\termproject\project\graph.cpp
+	"Graph.h"
+	<vector>
+
+1618767470 c:\users\matth\desktop\coen 244\termproject\project\graph.h
+	<iostream>
+	"Person.h"
+	"Friendship.h"
+
+1618790453 source:c:\users\matth\desktop\coen 244\termproject\project\ugraph.cpp
+	"UGraph.h"
+	<vector>
+
+1618772097 c:\users\matth\desktop\coen 244\termproject\project\ugraph.h
+	<string>
+	"Graph.h"
+	<vector>
+
+1618790453 source:c:\users\matth\desktop\coen 244\termproject\project\dgraph.cpp
+	"Dgraph.h"
+
+1618772097 c:\users\matth\desktop\coen 244\termproject\project\dgraph.h
+	<string>
+	"Graph.h"
+	<vector>
+

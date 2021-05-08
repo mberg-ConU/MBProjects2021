@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610044270 source:c:\users\matth\documents\truthtables\main.cpp
+	<iostream>
+	"MyBool.h"
+
+1610044734 c:\users\matth\documents\truthtables\mybool.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1610044353 source:c:\users\matth\documents\truthtables\mybool.cpp
+	"MyBool.h"
+

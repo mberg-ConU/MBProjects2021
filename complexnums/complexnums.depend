@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1609871133 source:c:\users\matth\documents\complexnums\main.cpp
+	<iostream>
+	"complex.h"
+
+1609870544 source:c:\users\matth\documents\complexnums\complex.cpp
+	"complex.h"
+
+1609871001 c:\users\matth\documents\complexnums\complex.h
+	<cmath>
+	<iostream>
+	<fstream>
+
